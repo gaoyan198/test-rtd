@@ -1,0 +1,4 @@
+Persons
+=========
+
+.. openapi:: openapi.yml
